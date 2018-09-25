@@ -1,4 +1,5 @@
 Nume: Gavan Adrian George
+
 Grupa: 314CA
 
 Tema 2: Codeland War
@@ -15,15 +16,15 @@ Prezentarea implementarii:
 ==========================
 
 Functii folosite pentru implementarea temei:
-1.Transformarea unui numar intreg in binar:
+1. Transformarea unui numar intreg in binar:
 int transformare_binar(int d, int b, int *p, int pos);
-2.Transformarea unui numar binar in intreg:
+2. Transformarea unui numar binar in intreg:
 int transformare_intreg(int *p, int x, int y);
-3.Functie pentru ridicare la putere:
+3. Functie pentru ridicare la putere:
 int putere(int x, int y);
-4.Functie de initializare cu 0 a matricelor:
+4. Functie de initializare cu 0 a matricelor:
 void initializare_matrice(int m,int n,int matrice[][400]);
-5.Functie de numarare a bazelor dintr-o reuniune (dimensiune reuniune):
+5. Functie de numarare a bazelor dintr-o reuniune (dimensiune reuniune):
 void baza(int mat[][400],int m, int n, int i, int j);
 
 Algoritm:
